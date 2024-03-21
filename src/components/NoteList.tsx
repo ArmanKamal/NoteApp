@@ -1,8 +1,8 @@
-import React, { useMemo, useState } from 'react'
+import  { useMemo, useState } from 'react'
 import { Button, Col, Form, FormControl, Modal, ModalBody, ModalTitle, Row, Stack } from 'react-bootstrap'
 import { Link } from 'react-router-dom'
 import ReactSelect from 'react-select'
-import { Note, Tag } from '../App'
+import {  Tag } from '../App'
 import NoteCard from './NoteCard'
 
 

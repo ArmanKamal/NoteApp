@@ -1,4 +1,3 @@
-import React from 'react'
 import { SimplyfiedNotes } from './NoteList'
 import { Link } from 'react-router-dom'
 import { Badge, Card, CardBody, Stack } from 'react-bootstrap'
